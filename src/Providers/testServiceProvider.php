@@ -20,5 +20,6 @@ class testServiceProvider extends ServiceProvider
     public function register()
     {
         $this->getApplication()->register(testRouteServiceProvider::class);
+        exit;
     }
 }
