@@ -1,0 +1,8 @@
+{
+  "name"              :"Test",
+  "description"       :"My first plugin",
+  "namespace"         :"Voptest",
+  "author"            :"Jens Perzewski",
+  "type"              :"template",
+  "serviceProvider"   :"Voptest\\testServiceProvider"
+}
